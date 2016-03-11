@@ -1,0 +1,6 @@
+errbot
+#sleekxmpp
+#pyasn1-modules
+#irc
+#hypchat
+slackclient
