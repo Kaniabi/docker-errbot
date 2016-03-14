@@ -1,6 +1,2 @@
-errbot
-#sleekxmpp
-#pyasn1-modules
-#irc
-#hypchat
+-e git+https://github.com/kaniabi/errbot.git@master#egg=errbot
 slackclient
