@@ -1,2 +1,2 @@
--e git+https://github.com/kaniabi/errbot.git@master#egg=errbot
+-e git+https://github.com/kaniabi/errbot.git@4.0.3#egg=errbot
 slackclient
